@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|c:\\users\\user\\desktop\\gui cw\\gui cw group\\gui cw group\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\matchdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\matchdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\monthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\monthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\batsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\batsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\monthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\monthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\batsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\batsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\membersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\membersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\matchdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\matchdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\membersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\membersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\matchdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\matchdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\membersdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\membersdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\gui cw group\\dailyreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B63B10-B203-44E6-8EB0-C3C23ED782F4}|GUI CW GROUP\\GUI CW GROUP.csproj|solutionrelative:gui cw group\\dailyreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Batsman.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Batsman.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Batsman.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Batsman.cs",
+              "RelativeToolTip": "GUI CW GROUP\\Batsman.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADgv2QAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:03:07.069Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatchDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MatchDetails.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MatchDetails.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MatchDetails.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\MatchDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:03:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchDetails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MatchDetails.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MatchDetails.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MatchDetails.cs",
+              "RelativeToolTip": "GUI CW GROUP\\MatchDetails.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwMwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:54:19.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonthlyReport.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MonthlyReport.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MonthlyReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MonthlyReport.cs",
+              "RelativeToolTip": "GUI CW GROUP\\MonthlyReport.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:11:25.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:34:19.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Bowler.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Bowler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Bowler.cs",
+              "RelativeToolTip": "GUI CW GROUP\\Bowler.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAADTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:32:21.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DailyReport.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DailyReport.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\DailyReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DailyReport.cs",
+              "RelativeToolTip": "GUI CW GROUP\\DailyReport.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:48:50.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bowler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Bowler.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Bowler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Bowler.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\Bowler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:09:11.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonthlyReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MonthlyReport.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MonthlyReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MonthlyReport.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\MonthlyReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:17:41.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Batsman.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Batsman.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Batsman.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Batsman.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\Batsman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:03:06.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MembersDetails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MembersDetails.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MembersDetails.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MembersDetails.cs",
+              "RelativeToolTip": "GUI CW GROUP\\MembersDetails.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAF0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:11:30.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DailyReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DailyReport.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\DailyReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DailyReport.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\DailyReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:40:35.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Form1.cs*",
+              "RelativeToolTip": "GUI CW GROUP\\Form1.cs*",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:45:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MembersDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MembersDetails.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MembersDetails.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MembersDetails.cs [Design]",
+              "RelativeToolTip": "GUI CW GROUP\\MembersDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:51:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatchDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MatchDetails.Designer.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MatchDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MatchDetails.Designer.cs",
+              "RelativeToolTip": "GUI CW GROUP\\MatchDetails.Designer.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAIwO8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:53:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DbConnection.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DbConnection.cs",
+              "RelativeToolTip": "GUI CW GROUP\\DbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:24:20.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MembersDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MembersDetails.Designer.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\MembersDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\MembersDetails.Designer.cs",
+              "RelativeToolTip": "GUI CW GROUP\\MembersDetails.Designer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:52:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\Form1.Designer.cs*",
+              "RelativeToolTip": "GUI CW GROUP\\Form1.Designer.cs*",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAIwD4BAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:01:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DailyReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DailyReport.Designer.cs",
+              "RelativeDocumentMoniker": "GUI CW GROUP\\DailyReport.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GUI CW\\GUI CW GROUP\\GUI CW GROUP\\DailyReport.Designer.cs",
+              "RelativeToolTip": "GUI CW GROUP\\DailyReport.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:54:13.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
